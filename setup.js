@@ -8,6 +8,7 @@ const createTable = async () => {
       gender VARCHAR(50),
       gender_probability FLOAT,
       sample_size INT,
+      age INT,
       age_group VARCHAR(10),
       country_id VARCHAR(10),
       country_probability FLOAT,
