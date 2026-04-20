@@ -3,7 +3,7 @@
 A high-performance Node.js API that generates intelligent user profiles by integrating multiple external data services (Agify, Genderize, and Nationalize).
 
 ## 🚀 Live Demo
-**Public URL:** https://hng14-stage1-api-assessment-production.up.railway.app/
+**Public URL:** https://hng14-stage1-api-assessment.vercel.app/
 **API Endpoint:** `/api/profiles`
 
 ##  Tech Stack
